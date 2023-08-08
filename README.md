@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kat
-- 👀 I’m interested in plants
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on school projects
+- 👀 I’m interested in plants, books, and travel
+- 🌱 I’m currently learning JavaScript, and re-learning HTML and CSS
+- 💞️ I’m looking to collaborate on school projects and integrate myself into the world of Software Engineering
 <!-- - 📫 How to reach me ...-->
 
 <!---
