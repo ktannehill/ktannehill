@@ -2,7 +2,7 @@
 - 👀 I’m interested in plants
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on school projects
-- 📖 I'm currently reading The Night and Its Moon
+- 📖 I'm currently reading The Sun and Its Shade
 - 🎮 I'm currently playing Animal Crossing
 - 🛫 I'm hoping to travel to Iceland
 <!-- - 📫 How to reach me ...-->
