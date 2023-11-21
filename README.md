@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,discord,figma,git,github,html,js,linkedin,materialui,ps,py,react,replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=css,discord,figma,flask,git,github,html,js,linkedin" /><br />
+    <img src="https://skillicons.dev/icons?i=materialui,ps,postman,py,react,replit,sqlite,vscode" />
   </a>
 </p>
 
