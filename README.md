@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kat
 - 👀 I’m interested in plants
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on school projects
-- 📖 I'm currently reading Catching Fire
+- 📖 I'm currently reading Pride & Prejudice
 - 🎮 I'm currently playing Animal Crossing
 - 🛫 I'm hoping to travel to Iceland
 <!-- - 📫 How to reach me ...-->
