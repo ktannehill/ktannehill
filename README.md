@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kat
-- 👀 I’m interested in plants
+- 👀 I’m interested in plants && delicious recipes
 - 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on full-stack projects
 - 📖 I'm currently reading Pride & Prejudice
