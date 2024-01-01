@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kat
 - 👀 I’m interested in plants && delicious recipes
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Algorithms 
 - 💞️ I’m looking to collaborate on full-stack projects
-- 📖 I'm currently reading Pride & Prejudice
+- 📖 I'm currently reading The Name of the Wind
 - 🎮 I'm currently playing Animal Crossing
 - 🛫 I'm hoping to travel to Iceland
 <!-- - 📫 How to reach me ...-->
