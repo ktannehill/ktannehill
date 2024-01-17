@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kat
 - 👀 I’m interested in plants && delicious recipes
-- 🌱 I’m currently learning Algorithms 
+- 🌱 I’m currently learning React Native 
 - 💞️ I’m looking to collaborate on full-stack projects
 - 📖 I'm currently reading The Name of the Wind
 - 🎮 I'm currently playing Animal Crossing
