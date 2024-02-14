@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kat
 - 👀 I’m interested in plants && delicious recipes
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning DSAs
 - 💞️ I’m looking to collaborate on full-stack projects
-- 📖 I'm currently reading A Fire Endless
+- 📖 I'm currently reading The Wise Man's Fear
 - 🎮 I'm currently playing Animal Crossing
 - 🛫 I'm hoping to travel to Iceland
 <!-- - 📫 How to reach me ...-->
