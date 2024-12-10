@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kat
 - 👀 I’m interested in plants && delicious recipes
-- 🌱 I’m currently learning DSAs
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on full-stack projects
 - 📖 I'm currently reading way too many fantasy novels
 - 🎮 I'm currently playing Animal Crossing
